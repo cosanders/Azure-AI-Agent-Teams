@@ -24,8 +24,7 @@ Before running this application, ensure you have:
 ```
 Azure-AI-Agent-Teams/
 ├── example.csproj          # Project configuration
-├── model.cs                # Core model/agent code
-├── run_model.cs            # Entry point for running the model
+├── model.cs                # Core model/agent code & Entry point for running the model
 ├── instructions.md         # Setup instructions
 ├── README.md               # This file
 └── .env                    # Environment variables (Azure credentials)
